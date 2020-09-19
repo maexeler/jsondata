@@ -2,58 +2,58 @@
   "customers": [
       {"id": 1, "name:" "Max"},
       {"id": 2, "name:" "Trax"},
-      {"id": 3, "name:" "Gigax"},
+      {"id": 3, "name:" "Gigax"}
   ],
   "memos": [
     {
         "id": 1,
         "customer_id": 1,
         "note": "this is not a love song",
-        "date": 0,
+        "date": 0
     },
     {
         "id": 2,
         "customer_id": 1,
         "note": "this is still not a love song",
-        "date": 1,
+        "date": 1
     },
     {
         "id": 3,
         "customer_id": 2,
         "note": "Memo for Trax",
-        "date": 2,
+        "date": 2
     },
     {
         "id": 4,
         "customer_id": 3,
         "note": "Memo for Gigax",
-        "date": 3,
+        "date": 3
     },
   ],
 
   "todos": [
     {
       "id": 4,
-      "tittle": "Do this",
+      "title": "Do this",
       "completed": false
     },
     {
       "id": 3,
-      "tittle": "Do that",
+      "title": "Do that",
       "completed": true
     },
     {
       "id": 2,
-      "tittle": "Do it again Sam",
+      "title": "Do it again Sam",
       "completed": false
     },
     {
       "id": 1,
-      "tittle": "This is very detailed ToDo that says we should do it again and again and again",
+      "title": "This is very detailed ToDo that says we should do it again and again and again",
       "completed": true
     },
     {
-      "tittle": "This is not a love song",
+      "title": "This is not a love song",
       "completed": true,
       "id": 5
     }
