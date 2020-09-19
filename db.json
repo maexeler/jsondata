@@ -1,10 +1,10 @@
 {
-  "customers" = [
+  "customers": [
       {id: 1, name: 'Max'},
       {id: 2, name: 'Trax'},
       {id: 3, name: 'Gigax'},
   ],
-  "memos" = [
+  "memos": [
     {
         id: 1,
         customer_id: 1,
@@ -31,7 +31,6 @@
         note: 'Memo for Gigax',
         date: new Date().getTime(),
     },
-    
 ],
 
   "todos": [
