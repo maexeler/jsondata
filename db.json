@@ -17,21 +17,19 @@
         note: 'this is still not a love song',
         date: 1,
     },
-    
     {
         id: 3,
         customer_id: 2,
         note: 'Memo for Trax',
         date: 2,
     },
-    
     {
         id: 4,
         customer_id: 3,
         note: 'Memo for Gigax',
         date: 3,
     },
-],
+  ],
 
   "todos": [
     {
