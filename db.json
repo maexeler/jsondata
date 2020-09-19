@@ -1,8 +1,8 @@
 {
   "customers": [
-      {"id": 1, "name:" "Max"},
-      {"id": 2, "name:" "Trax"},
-      {"id": 3, "name:" "Gigax"}
+      {"id": 1, "name": "Max"},
+      {"id": 2, "name": "Trax"},
+      {"id": 3, "name": "Gigax"}
   ],
   "memos": [
     {
