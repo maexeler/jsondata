@@ -1,32 +1,32 @@
 {
   "customers": [
-      {"id": 1, "name:" 'Max'},
-      {"id": 2, "name:" 'Trax'},
-      {"id": 3, "name:" 'Gigax'},
+      {"id": 1, "name:" "Max"},
+      {"id": 2, "name:" "Trax"},
+      {"id": 3, "name:" "Gigax"},
   ],
   "memos": [
     {
         "id": 1,
-        "customer_id:" 1,
-        "note:" 'this is not a love song',
+        "customer_id": 1,
+        "note:" "this is not a love song",
         "date": 0,
     },
     {
         "id": 2,
-        "customer_id:" 1,
-        "note:" 'this is still not a love song',
+        "customer_id": 1,
+        "note:" "this is still not a love song",
         "date": 1,
     },
     {
         "id": 3,
-        "customer_id:" 2,
-        "note:" 'Memo for Trax',
+        "customer_id": 2,
+        "note:" "Memo for Trax",
         "date": 2,
     },
     {
         "id": 4,
-        "customer_id:" 3,
-        "note:" 'Memo for Gigax',
+        "customer_id": 3,
+        "note:" "Memo for Gigax",
         "date": 3,
     },
   ],
