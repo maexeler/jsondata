@@ -1,18 +1,18 @@
 {
   "cookies": [
-    {"id": 1, "wisdom": "Nichts auf der Welt ist so gerecht verteilt wie der Verstand. Denn jedermann ist überzeugt, dass er genug davon habe.", "autor": "DZ_the_best"},
-    {"id": 1, "wisdom": "Besuche einmal im Jahr einen Ort, den Du noch nicht kennst", "autor": "Dalai Lama"},
-    {"id": 1, "wisdom": "Man wird ja religiös, weil man Freiheit nicht aushält.", "autor": "Esther Vilar"},
-    {"id": 1, "wisdom": "Wege entstehen dadurch, dass man sie geht.", "autor": "Franz Kafka"},
-    {"id": 1, "wisdom": "I am often wrong, but I am never in doubt.", "autor": "Chris Curvey"},
-    {"id": 1, "wisdom": "Those Who Sacrifice Liberty For Security Deserve Neither", "autor": "Benjamin Franklin"},
-    {"id": 1, "wisdom": "Emmer weder schön, wes schön isch.", "autor": "Blusbueb"},
-    {"id": 1, "wisdom": "Die Dummheit des Menschen ist unantastbar", "autor": "(unknown author)"},
-    {"id": 1, "wisdom": "Wo kämen wir hin, wenn alle sagten, wo kämen wir hin und niemand ginge hin, um einmal zu schauen, wohin man käme, wenn man ginge.", "autor": "K.Marti"},
-    {"id": 1, "wisdom": "A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.", "autor": "Douglas Adams from Mostly Harmless"},
-    {"id": 1, "wisdom": "Three things are certain:\nDeath, taxes, and lost data.\nGuess which has occurred.", "autor": "David Dixon"},
-    {"id": 1, "wisdom": "Melde gehorsamst, jawohl, ich bin ein Trottel", "autor": "Jozef Schwejk"},
-    {"id": 1, "wisdom": "Ich habe feine Haare und kräftige Beine und hätte es lieber umgekehrt.", "autor": "Trudi Gerster"}
+    {"id": "1", "wisdom": "Nichts auf der Welt ist so gerecht verteilt wie der Verstand. Denn jedermann ist überzeugt, dass er genug davon habe.", "autor": "DZ_the_best"},
+    {"id": "2", "wisdom": "Besuche einmal im Jahr einen Ort, den Du noch nicht kennst", "autor": "Dalai Lama"},
+    {"id": "3", "wisdom": "Man wird ja religiös, weil man Freiheit nicht aushält.", "autor": "Esther Vilar"},
+    {"id": "4", "wisdom": "Wege entstehen dadurch, dass man sie geht.", "autor": "Franz Kafka"},
+    {"id": "5", "wisdom": "I am often wrong, but I am never in doubt.", "autor": "Chris Curvey"},
+    {"id": "6", "wisdom": "Those Who Sacrifice Liberty For Security Deserve Neither", "autor": "Benjamin Franklin"},
+    {"id": "7", "wisdom": "Emmer weder schön, wes schön isch.", "autor": "Blusbueb"},
+    {"id": "8", "wisdom": "Die Dummheit des Menschen ist unantastbar", "autor": "(unknown author)"},
+    {"id": "9", "wisdom": "Wo kämen wir hin, wenn alle sagten, wo kämen wir hin und niemand ginge hin, um einmal zu schauen, wohin man käme, wenn man ginge.", "autor": "K.Marti"},
+    {"id": "10", "wisdom": "A common mistake that people make when trying to design something completely foolproof is to underestimate the ingenuity of complete fools.", "autor": "Douglas Adams from Mostly Harmless"},
+    {"id": "11", "wisdom": "Three things are certain:\nDeath, taxes, and lost data.\nGuess which has occurred.", "autor": "David Dixon"},
+    {"id": "12", "wisdom": "Melde gehorsamst, jawohl, ich bin ein Trottel", "autor": "Jozef Schwejk"},
+    {"id": "13", "wisdom": "Ich habe feine Haare und kräftige Beine und hätte es lieber umgekehrt.", "autor": "Trudi Gerster"}
   ],
   
   "customers": [
